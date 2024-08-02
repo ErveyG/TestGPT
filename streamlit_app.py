@@ -2,7 +2,6 @@ $pip install openai
 import openai
 import streamlit as st
 
-openai.api_key = "sk-V4tlyCU2xeFpN78rf0vZIaNlkhTqXrCokg9B1YrpAlT3BlbkFJShYe8Hvt0RroLngfwZ2JT4_h47n0diF6MUsCIQg6kA"
 
 def main():
     #st.sidebar.header("PREGO GPT")
